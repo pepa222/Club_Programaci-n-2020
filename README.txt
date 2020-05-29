@@ -1,5 +1,7 @@
 Alumna: Salazar Vásquez Viviana Isabel
 No. control: 19161403
+
+
 En el siguiente repositorio se encuentras 5 ejercicios realizados durante el curso de programación 
 en el Tecnológico nacional de México - Campus Oaxaca.
 
