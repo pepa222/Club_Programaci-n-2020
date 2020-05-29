@@ -1,0 +1,6 @@
+print("Ejercicio 1")
+cadena= input()
+espacio=cadena.find(" ")
+A= int(cadena[:espacio])
+B=int(cadena[espacio:])
+print(A+B)
